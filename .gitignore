@@ -2,3 +2,4 @@
 /.mypy_cache
 /config.json
 /venv
+/.vscode
