@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/anthonywritescode.twitch-chat-bot?branchName=master)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=55&branchName=master)
-
 twitch-chat-bot
 ===============
 
